@@ -2,7 +2,7 @@
 
 <div align="left"> <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/> <img src="https://visitor-badge.glitch.me/badge?page_id=ChangWinde" /> </div>
 
-Welcome to my Github page! I am Fengshuo Bai, and I am currently finishing my Artificial Intelligence Master degree! 
+Welcome to my Github page! I am Fengshuo Bai, and I am currently finishing my Artificial Intelligence Master degree at University of Chinese Academy of Sciences! 
 My research interest lies in reinforcement learning, and related topics including  Preference-based RL and Multi-task RL.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChangWinde&theme=prussian&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
